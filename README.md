@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saikat-Chattoraj
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reactjs,NodeJS and MongoDB
+- 🌱 I’m currently learning Reactjs,NextJS,React Native,NodeJS,MongoDB and API.
 - 📫 Reach me out at saikatchattoraj1@gmail.com
 
 <!---
